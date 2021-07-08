@@ -8,8 +8,7 @@ I'm a trainee as an IT specialist for application development at [flagbit](https
 - 📚 I’m always learning and love to improve my work
 - 📫 You can reach me using the following mail: [p.zarrad@outlook.de](mailto://p.zarrad@outlook.de)
 
-----
-### Skills
+-----
 <a href="https://github.com/search?q=user%3Apascal-zarrad+is%3Arepo+language%3php">
     <img alt="Java" src="https://img.shields.io/badge/php-%238892BF.svg?&style=for-the-badge&logo=php&logoColor=white">
 </a>
