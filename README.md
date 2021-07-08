@@ -3,7 +3,7 @@
 I'm a trainee as an IT specialist for application development at [flagbit](https://github.com/flagbit). I'm doing fullstack stuff with a tendency to backend development.
 
 - 🔭 I’m working on some personal projects like [Pascal's Shell](https://github.com/pascal-zarrad/psh) or [GCaptchaValidator](https://github.com/pascal-zarrad/gcaptchavalidator)
-- 🌱 I'm also working on some projects with together with a friend which you can find on [Lazy Bytez](https://github.com/lazybytez)
+- 🌱 I'm also working on some projects together with a friend which you can find on [Lazy Bytez](https://github.com/lazybytez)
 - 👯 I’m an open source contributor that is looking forward to empower free and open software
 - 📚 I’m always learning and love to improve my work
 - 📫 You can reach me using the following mail: [p.zarrad@outlook.de](mailto://p.zarrad@outlook.de)
