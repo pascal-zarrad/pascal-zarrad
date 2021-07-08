@@ -19,9 +19,6 @@ I'm a trainee as an IT specialist for application development at [flagbit](https
 <a href="https://github.com/search?q=user%3pascal-zarrad+is%3Arepo+language%3Ajavascript">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
-<a href="https://github.com/search?q=user%3pascal-zarrad+is%3Arepo+language%3Ajavascript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=vue&logoColor=%23F7DF1E">
-</a>
 <a href="https://github.com/search?q=user%3Apascal-zarrad+is%3Arepo+language%3Ajava">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
 </a>
