@@ -1,6 +1,6 @@
 ## Hi Pascal Zarrad here 👋
 
-I'm a trainee as an IT specialist for application development at [flagbit](https://github.com/flagbit). I'm doing fullstack stuff with a tendency to backend development.
+I'm a fullstack web developer at [flagbit](https://github.com/flagbit). I'm doing fullstack stuff with a tendency to backend development.
 
 - 🔭 I’m working on some personal projects like [Pascal's Shell](https://github.com/pascal-zarrad/psh) or [GCaptchaValidator](https://github.com/pascal-zarrad/gcaptchavalidator)
 - 🌱 I'm also working on some projects together with a friend which you can find on [Lazy Bytez](https://github.com/lazybytez)
